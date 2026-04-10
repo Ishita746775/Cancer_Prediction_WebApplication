@@ -1,1 +1,0 @@
-The folder contains the files used in training the machine laearning model.
